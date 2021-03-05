@@ -27,5 +27,6 @@ export const RowImage = styled.img`
   :hover {
     transform: scale(1.09);
     opacity: 1;
+    cursor: pointer;
   }
 `;
